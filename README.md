@@ -32,4 +32,4 @@
 </p>
 
 # **References**
-- Inspire by **Kaylode**: 
+- Inspire by **Kaylode**: https://github.com/kaylode/rec-sys
