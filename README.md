@@ -1,4 +1,4 @@
-# **Movie Recommended System**
+<h1 align="center"> Movie Recommendation System </h1>
 
 
 ## **Explore the data** [![Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1A4kHKq9jrUPrCYXqoOj5iDQVcnRJK9sR?usp=sharing)
